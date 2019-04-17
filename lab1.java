@@ -8,7 +8,7 @@ public class patternDisplay {
 		System.out.println("\n\n\n*\t*\n\n*\t*\t*\n\n*\t*\n\n*\t*\t*\n\n*\t*");
 		System.out.println("\n\n\n*\t*\n\n*\t*\t*\n\n*\t*\n\n*\t*\t*\n\n*\t*");
 		System.out.println("\n\n\n*\t\t*\n\n*\t\t*\n\n*\t\t*\n\n*\t\t*\n\n    * \t   *");
-		System.out.println("my name is Mohammed Zakariyau Matric number:U16/FNS/CSC/2045"
+		System.out.println("my name is Mohammed Zakariyau Matric number:U16/FNS/CSC/2045");
 	}
 
 }
