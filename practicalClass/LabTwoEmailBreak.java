@@ -3,7 +3,7 @@ package practicalClass;
 import java.util.Scanner;
 //Program to break inputed email into username and domain name
 //U15/FNS/CSC/038
-public class labTwo_emailBreak {
+public class LabTwoEmailBreak {
 	public static void main(String[] args) {
 		Scanner userInput=new Scanner(System.in);
 		String testString,emailAddress;

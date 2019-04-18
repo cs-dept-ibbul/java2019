@@ -2,7 +2,7 @@ package practicalClass;
 
 //program to print miles, values of X,Y,Z and also log of a value
 // U15/FNS/CSC/038
-public class labTwo_one {
+public class LabTwoOne {
 	public static void main(String[] args) {
 		//Lab2 question 1(a)
 		double miles=10.5;

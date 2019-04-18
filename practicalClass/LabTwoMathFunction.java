@@ -2,7 +2,7 @@ package practicalClass;
 
 //program to carry out sin,cos,tan,abs,exp mathematical functions
 //U15/FNS/CSC/038
-public class labTwo_mathFunction {
+public class LabTwoMathFunction {
 	public static void main(String[] args) {
 		double k;
 		k=2/4*4%3;

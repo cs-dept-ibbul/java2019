@@ -2,7 +2,7 @@ package practicalClass;
 
 //program to display mathematical table
 //U15/FNS/CSC/038
-public class displayTable {
+public class DisplayTable {
 	public static void main(String[] args) {
 		int mulOne=1,mulTwo=2,mulThree=3,mulFour=4;
 		System.out.println("\t"+mulOne+"\t"+mulTwo+"\t"+mulThree+"\t"+mulFour);

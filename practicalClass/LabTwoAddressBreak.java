@@ -3,7 +3,7 @@ package practicalClass;
 import java.util.Scanner;
 //program to break file address into file path, file name and its extension
 //U15/FNS/CSC/038
-public class labTwo_addressBreak {
+public class LabTwoAddressBreak {
 	public static void main(String[] args) {
 		Scanner file=new Scanner(System.in);
 		String path;
