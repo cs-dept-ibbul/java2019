@@ -9,8 +9,8 @@ package bankaccount;
  *
  * @author hp
  */
-//MATRIC NUMBER:U15/FNS/CSC/061
-//NAME:ALKALI MAMUD
+//MATRIC NUMBER:U16/FNS/CSC/2087
+//NAME:Abdullahi idris
 public class BankAccount {
 private int accountNumber;
 private String customerName;
