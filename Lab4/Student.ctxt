@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ id\ quiz1\ quiz2\ quiz3
+comment1.target=Student(java.lang.String,\ int,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment10.params=
+comment10.target=double\ getAverage()
+comment11.params=
+comment11.target=void\ printDetails()
+comment2.params=name
+comment2.target=java.lang.String\ getName(java.lang.String)
+comment3.params=id
+comment3.target=int\ getId(int)
+comment4.params=quiz1
+comment4.target=double\ getQuizOne(double)
+comment5.params=quiz2
+comment5.target=double\ getQuizTwo(double)
+comment6.params=quiz3
+comment6.target=double\ getQuizThree(double)
+comment7.params=quiz1
+comment7.target=void\ setQuizOne(double)
+comment8.params=quiz2
+comment8.target=void\ setQuizTwo(double)
+comment9.params=quiz3
+comment9.target=void\ setQuizThree(double)
+numComments=12

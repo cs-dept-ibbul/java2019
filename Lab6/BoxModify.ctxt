@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BoxModify
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BoxModify\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=boxLength\ boxWidth\ boxHeight
+comment1.target=BoxModify(double,\ double,\ double)
+comment2.params=obj
+comment2.target=BoxModify(BoxModify)
+comment3.params=boxLength
+comment3.target=BoxModify(double)
+comment4.params=
+comment4.target=double\ volume()
+comment5.params=
+comment5.target=double\ surfaceArea()
+comment6.params=
+comment6.target=double\ getLength()
+comment7.params=
+comment7.target=double\ getWidth()
+comment8.params=
+comment8.target=double\ getHeight()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
