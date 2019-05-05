@@ -3,8 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//MATRIC NUMBER:U15/FNS/CSC/061
-//NAME:ALKALI MAMUD
+//MATRIC NUMBER:U16/FNS/CSC/2087
+//NAME:Abdullahi idris
 package emailaddress;
 import java.util.Scanner;
 public class EmailAddress {
