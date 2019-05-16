@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=userEmail
+comment1.target=void\ readEmail(java.lang.String)
+numComments=2

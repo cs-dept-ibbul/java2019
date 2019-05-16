@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=boxLength\ boxWidth\ boxHeight
+comment1.target=Box(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ volume()
+comment3.params=
+comment3.target=double\ surfaceArea()
+numComments=4
